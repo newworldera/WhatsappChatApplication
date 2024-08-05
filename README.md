@@ -1,39 +1,26 @@
-# Day-12-Simple-WhatsApp-Chat-Application
+# Whatsapp Chat Application
+Embarking on the journey to enhance your web development skills through hands-on projects is an exciting and rewarding experience. This approach not only solidifies your understanding of fundamental concepts but also exposes you to real-world challenges and problem-solving scenarios. By engaging in a variety of projects, from simple static websites to complex, dynamic web applications, you will gain practical experience in HTML, CSS, JavaScript, and backend technologies. Each project serves as a stepping stone, building your confidence and competence in coding, design, and user experience.
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
-
-Live Demo - https://quantumcoding123.github.io/Day-12-Simple-WhatsApp-Chat-Application/collapsible-menu/Index.html
+Live Demo - https://newworldera.github.io/WhatsappChatApplication/
 
 # Join Us
+GitHub-https://github.com/newworldera
 
-GitHub-https://github.com/QuantumCoding123
+YouTube-https://www.youtube.com/channel/UCOQjw35DxJYhiP8d_m8dTmQ
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+Instagram - https://instagram.com/new_world_era_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
 
-Instagram - https://www.instagram.com/quantumcoding123
+Telegram-https://t.me/+t73Q26ORYWRkYWQ1
 
-Telegram - https://t.me/QuantumCoding123
+Whatsapp- https://whatsapp.com/channel/0029VafLdr6EawdzpspHgb0O
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+# Output 1
+![Screenshot 2024-08-05 035930](https://github.com/user-attachments/assets/13c0399f-6187-4a38-9842-ecbe991f18ce)
 
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
+# Output 2
+![Screenshot 2024-08-05 035944](https://github.com/user-attachments/assets/c559a7ba-39a3-420c-a8a7-d936959e4928)
 
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
-
-# Output - 1
-
-![Screenshot (54)](https://github.com/QuantumCoding123/Day-12-Simple-WhatsApp-Chat-Application/assets/166281221/7041e71d-a90b-4c35-a5c4-d478c077ba56)
-
-
-# Output - 2
-
-![Screenshot (55)](https://github.com/QuantumCoding123/Day-12-Simple-WhatsApp-Chat-Application/assets/166281221/ac14a1b3-bb38-4b41-b9d3-4e78bffe098b)
-
-
-# Output - 3
-
-![Screenshot (56)](https://github.com/QuantumCoding123/Day-12-Simple-WhatsApp-Chat-Application/assets/166281221/122becf9-a3ae-4441-9129-51ddfc038fcd)
-
-
+# Output 3
+![Screenshot 2024-08-05 040003](https://github.com/user-attachments/assets/1b6aa212-179a-45d7-b841-921a1baa5ab1)
 
 
